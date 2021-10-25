@@ -15,7 +15,9 @@ Our machine learning model learns from the training dataset and makes prediction
 
 # Visualization
 
-![Alt text here]("C:\Users\17322\Fintech\Challenges\Challenge 5\Starter_Code\MC_thirtyyear_sim_plot.png")
+![alt text](https://github.com/GGCorrochano/ML_Trading_Bot/blob/main/Strategy_Returns_plot.png?raw=true)
+![alt text](https://github.com/GGCorrochano/ML_Trading_Bot/blob/main/Predictions_Cumulative_Return_plot.png?raw=true)
+![alt text](https://github.com/GGCorrochano/ML_Trading_Bot/blob/main/Predictions2_Cumulative_Return_plot.png?raw=true)
 
 # Contributing
 
